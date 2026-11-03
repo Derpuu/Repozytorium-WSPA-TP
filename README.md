@@ -1,17 +1,17 @@
-# [Nazwa systemu]
+# [Biblioteka Gier "WSPA GIER"]
 
 > Projekt zespołowy systemu informatycznego, cz. 1 (dokumentacja), semestr zimowy 2026/27, studia niestacjonarne.
 > Temat nr **[XX]**: [tytuł tematu z listy]
 
 ## O systemie
 
-[2–4 zdania: jaki problem rozwiązuje system, dla kogo jest i jaka jest jego główna wartość.]
+System jest odpowiedzią na znikomą konkurencję dla platformy od studia Valve - "Steam". Został stworzony, by w pełni zrozumieć oraz wdrożyć potrzeby i opowiedzi na problemy, które nie znajdują rozwiązania w obecnej formie platformy "Steam".
 
 ## Zespół
 
 | Osoba | Login GitHub/GitLab | Rola główna | Role dodatkowe |
 |---|---|---|---|
-| Imię Nazwisko | @login | Kierownik projektu | |
+| Dawid Cichosz | Derpuu | Kierownik projektu | |
 | Imię Nazwisko | @login | Analityk wymagań | |
 | Imię Nazwisko | @login | Architekt / projektant BD | |
 | Imię Nazwisko | @login | Projektant UX/UI | |
@@ -25,14 +25,14 @@
 
 | Nr | Dokument | Właściciel | Status |
 |---|---|---|---|
-| 00 | [Zarządzanie projektem](docs/00_zarzadzanie.md) | | ⬜ |
-| 01 | [Wizja i zakres](docs/01_wizja_i_zakres.md) | | ⬜ |
-| 02 | [Słownik pojęć](docs/02_slownik.md) | | ⬜ |
-| 03 | [Wymagania](docs/03_wymagania.md) | | ⬜ |
-| 04 | [Procesy i przypadki użycia](docs/04_procesy_i_przypadki_uzycia.md) | | ⬜ |
-| 05 | [Architektura](docs/05_architektura.md) + [ADR](docs/adr/) | | ⬜ |
+| 00 | [Zarządzanie projektem](docs/00_zarzadzanie.md) | | 🟨 |
+| 01 | [Wizja i zakres](docs/01_wizja_i_zakres.md) | | 🟨 |
+| 02 | [Słownik pojęć](docs/02_slownik.md) | | 🟨 |
+| 03 | [Wymagania](docs/03_wymagania.md) | | 🟨 |
+| 04 | [Procesy i przypadki użycia](docs/04_procesy_i_przypadki_uzycia.md) | | 🟨 |
+| 05 | [Architektura](docs/05_architektura.md) + [ADR](docs/adr/) | | 🟨 |
 | 06 | [Model danych](docs/06_model_danych.md) | | ⬜ |
-| 07 | [Interfejs użytkownika](docs/07_interfejs_uzytkownika.md) + [makiety](docs/makiety/) | | ⬜ |
+| 07 | [Interfejs użytkownika](docs/07_interfejs_uzytkownika.md) + [makiety](docs/makiety/) | | 🟨 |
 | 08 | [Bezpieczeństwo](docs/08_bezpieczenstwo.md) | | ⬜ |
 | 09 | [Wdrożenie](docs/09_wdrozenie.md) | | ⬜ |
 | 10 | [Testy i jakość](docs/10_testy_i_jakosc.md) | | ⬜ |
@@ -73,3 +73,4 @@ Zasady pracy z repozytorium opisuje [CONTRIBUTING.md](CONTRIBUTING.md).
 | `RYZ-` | ryzyko | RYZ-02 |
 
 Identyfikatora raz nadanego **nie zmienia się i nie używa ponownie**. Usunięte wymaganie oznacza się jako ~~wycofane~~.
+
