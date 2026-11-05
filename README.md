@@ -15,7 +15,7 @@ System jest odpowiedzią na znikomą konkurencję dla platformy od studia Valve 
 | Ewelina Pikul | @ewelinapikul345 | Analityk wymagań | |
 | Natalia Stopa | @nataliastopa | Architekt / projektant BD | |
 | Olga Mróz | @olgamroz | Projektant UX/UI | |
-| Imię Nazwisko | @login | QA / wdrożenie | |
+| Kacper Graczyk | @kacpergraczyk | QA / wdrożenie | |
 
 ### Macierz odpowiedzialności (RACI)
 
